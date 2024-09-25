@@ -1,0 +1,17 @@
+.Screen{
+    height: 80px;
+    width: 250px;
+   margin-left: 5px;
+    border-radius: 12px;
+
+}
+.input{
+    margin-top : 5px;
+     border-radius: 12px;
+     width: 100%;
+    background-color:  white;
+    color: rgb(27, 26, 26);
+    display: flex;
+    justify-content: end;
+    height: 80px;
+}

@@ -1,0 +1,15 @@
+.cal{
+  border: 1px solid black;
+  width: 260px;
+  height: 330px;
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%,-50%);
+  border-radius: 10px;
+  box-shadow: 20px;
+ 
+}
+.button{
+  margin-left: 5px;
+}
